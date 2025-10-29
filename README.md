@@ -5,7 +5,7 @@
 ## 仓库结构
 
 ```
-LLMs_Project/                # 总仓库（最大的一层）
+LLM_project_study/           # 总仓库（最大的一层）
 ├── README.md                # 总览（介绍整个学习计划/仓库目的）
 ├── LangChain_RAG/           # 子模块：RAG 学习路线
 │   ├── project_1/           # RAG 项目 1
